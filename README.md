@@ -55,8 +55,8 @@ Essas tabelas deverão ser exportadas em formado CSV e entregue no final do desa
 
 ## To Do
 
--[x] - Consultar municípios do Vale do Paraíba, gerar um data frame e criar uma temp view com esses dados.
--[x] - Consultar dados do tempo para cada município, gerar um data frame e criar uma outra temp view.
--[x] - Utilizar Spark SQL para gerar os data frames das Tabelas 1 e 2.
--[x] - Exportar os data frames para CSV.
+- [x] - Consultar municípios do Vale do Paraíba, gerar um data frame e criar uma temp view com esses dados.
+- [x] - Consultar dados do tempo para cada município, gerar um data frame e criar uma outra temp view.
+- [x] - Utilizar Spark SQL para gerar os data frames das Tabelas 1 e 2.
+- [x] - Exportar os data frames para CSV.
 
