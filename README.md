@@ -51,7 +51,7 @@ Com as temp views geradas, utilizar Spark SQL para criar queries e gerar data fr
     - QtdDiasNaoVaiChover
     - TotalDiasMapeados
 
-Essas tabelas deverão ser exportadas em formado CSV e entregue no final do desafio.
+
 
 ## To Do
 
