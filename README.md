@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Avaliar conhecimentos nas linguagens Python e SQL e na engine de processamento Apache Spark.
+Linguagens Python e SQL e na engine de processamento Apache Spark.
 
 ## Descrição
 
